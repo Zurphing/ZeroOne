@@ -17,7 +17,6 @@ assets:
     source:
     - name: Regular.tim
 - name: obj/W_EX010_TR.mdlx
-  multi:
   method: binarc
   source:
   - name: w_ex
@@ -31,7 +30,6 @@ assets:
     source:
     - name: Regular_TR.tim
 - name: obj/W_EX010_NM.mdlx
-  multi:
   method: binarc
   source:
   - name: w_ex
