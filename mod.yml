@@ -16,7 +16,7 @@ assets:
     method: copy
     source:
     - name: Regular.tim
- - name: obj/W_EX010_TR.mdlx
+- name: obj/W_EX010_TR.mdlx
   multi:
   method: binarc
   source:
