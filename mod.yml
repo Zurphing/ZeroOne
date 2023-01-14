@@ -2,6 +2,10 @@ title: Zero One
 description: Zero One from Re:Coded over Kingdom Key. Model by SoakuArt.
 assets:
 - name: obj/W_EX010.mdlx
+  multi:
+  - name: obj/W_EX010_TR.mdlx
+  - name: obj/W_EX010_NM.mdlx
+  - name: obj/W_EX010_WI.mdlx
   method: binarc
   source:
   - name: w_ex
@@ -15,6 +19,21 @@ assets:
     source:
     - name: Regular.tim
 - name: remastered\obj\W_EX010.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.mdlx\-0.dds
+- name: remastered\obj\W_EX010_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.mdlx\-0_TR.dds
+- name: remastered\obj\W_EX010_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.mdlx\-0_NM.dds
+- name: remastered\obj\W_EX010_WI.mdlx\-0.dds
   platform: pc
   method: copy
   source:
