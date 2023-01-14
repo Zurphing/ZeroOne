@@ -81,7 +81,7 @@ assets:
   source:
   - name: obj\W_EX010_90.a.fm
     type: internal
- - name: msg/jp/sys.bar
+- name: msg/jp/sys.bar
   multi:
   - name: msg/us/sys.bar
   - name: msg/fr/sys.bar
