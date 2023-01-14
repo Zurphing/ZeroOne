@@ -4,7 +4,7 @@ assets:
 - name: obj/W_EX010.mdlx
   method: binarc
   source:
-  - name: p_ex
+  - name: w_ex
     type: model
     method: copy
     source:
