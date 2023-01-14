@@ -19,3 +19,22 @@ assets:
   method: copy
   source:
   - name: remastered\obj\W_EX010.mdlx\-0.dds
+- name: raw\obj\W_EX010.a.us
+  platform: pc
+  multi:
+  - name: raw\obj\W_EX010_TR.a.us
+  - name: raw\obj\W_EX010_NM.a.us
+  - name: raw\obj\W_EX010_WI.a.us
+  method: copy
+  source:
+  - name: W_EX010.a.us
+- name: obj\W_EX010.a.fm
+  multi:
+  - name: obj\W_EX010_TR.a.fm
+  - name: obj\W_EX010_NM.a.fm
+  - name: obj\W_EX010_WI.a.fm
+  platform: ps2
+  method: copy
+  source:
+  - name: obj\W_EX010_90.a.fm
+    type: internal
